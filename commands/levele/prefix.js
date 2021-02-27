@@ -1,0 +1,10 @@
+const db = require("quick.db");
+const Discord = require("discord.js");
+
+
+module.exports = {
+    name: "prefix",
+    run: async (client, message, args) => {
+        
+    }
+}
